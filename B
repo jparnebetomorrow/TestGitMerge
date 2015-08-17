@@ -1,3 +1,4 @@
 master -- modification de B
 base -- contenu présent avant branch pour B
 master -- modification de B
+master -- on modifie encore pour A2
