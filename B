@@ -1,4 +1,5 @@
 
 modif du user JP
 base -- contenu présent avant branch pour B
-user 2
+user 2blabliblu
+base -- contenu présent avant branch pour B
