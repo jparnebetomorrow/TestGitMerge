@@ -1,1 +1,2 @@
 base -- contenu présent avant branch pour B
+user 2
