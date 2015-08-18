@@ -1,1 +1,1 @@
-base -- contenu présent avant branch pour B 
+base -- contenu présent avant branch pour B
