@@ -1,3 +1,4 @@
 blibadoisd
 user 2blabliblu
 base -- contenu présent avant branch pour B
+ajout de trucs
