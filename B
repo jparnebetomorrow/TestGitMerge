@@ -1,2 +1,1 @@
-modif 2
-modif JP
+texte de base
