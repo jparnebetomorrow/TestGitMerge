@@ -1,2 +1,1 @@
-2 1
-jp
+texte de base
